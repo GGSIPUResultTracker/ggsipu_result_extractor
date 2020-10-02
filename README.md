@@ -52,6 +52,3 @@ python -m unittest Tests.tests
 
 All files under the repo are licensed under GNU [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-#### Note:-
-I am bit confused. I want to release it under MIT but [xpdf-tools](https://www.xpdfreader.com/opensource.html)  which I use for extracting pdf's text is licensed under GPLv3 or 2. Till I find a replacement for xpdf it will be GPL.
-
